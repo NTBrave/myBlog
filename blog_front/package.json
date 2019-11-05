@@ -17,7 +17,7 @@
     "express-session": "^1.16.2",
     "highlight.js": "^9.15.10",
     "marked": "^0.7.0",
-    "mongoose": "^5.6.8",
+    "mongoose": "^5.7.5",
     "three": "^0.108.0",
     "vue": "^2.6.10",
     "vue-resource": "^1.5.1",
